@@ -17,6 +17,8 @@ HTML Structure
     Set up an HTML file with a basic structure. You can use the provided index.html file as a starting point.
     Create a container element to display the quote.
     Add a button element to fetch a new quote.
+![image](https://github.com/MellowRainn/Quoatableapi/assets/112863311/958640dc-1996-43c3-b692-7351cddda25d)
+
 
 Styling with CSS
 
