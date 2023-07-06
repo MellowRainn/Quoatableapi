@@ -27,7 +27,7 @@ JavaScript Code
 
     Create a JavaScript file and link it to the HTML file.
     Use the fetch() function to make a GET request to the Quotable API endpoint.
-    ![image](https://github.com/MellowRainn/Quoatableapi/assets/112863311/e6093e6c-4c54-49b7-a504-2216000b657b)
+    ![Image Description](https://github.com/MellowRainn/Quoatableapi/assets/112863311/e6093e6c-4c54-49b7-a504-2216000b657b)
     Parse the JSON response to extract the quote and author information.
     Update the HTML content to display the retrieved quote and author.
 
